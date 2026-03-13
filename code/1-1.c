@@ -11,7 +11,7 @@ int main()
     printf("char : %c\n", var2);
 
     char *var3 = "hello world!";
-    printf("string: %s\n", var3);
+    printf("string : %s\n", var3);
 
     float var4 = 3.141592f;
     printf("float : %f\n", var4);
