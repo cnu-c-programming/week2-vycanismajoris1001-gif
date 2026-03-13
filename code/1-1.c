@@ -10,10 +10,10 @@ int main()
     char var2 = 'c';
     printf("char : %c\n", var2);
 
-    char var3 = "hello world!";
+    char *var3 = "hello world!";
     printf("string: %s\n", var3);
 
-    float var4 = 3.141592;
+    float var4 = 3.141592f;
     printf("float : %f\n", var4);
     printf("exp : %e\n", var4);
     
