@@ -13,7 +13,7 @@ int main() {
         } else if (c == '*') {
             printf("%d\n", n1 * n2);
         } else if (c == '/') {
-            if (num2 != 0) {
+            if (n2 != 0) {
                 printf("%d\n", n1 / n2);
             } else {
                 printf("Error: Division by zero\n");
